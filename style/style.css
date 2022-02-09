@@ -1,0 +1,29 @@
+
+div.encabezado{
+    text-align: center;
+    background-color: black;
+    
+    
+}
+p.encabezadotexto{
+    color: white;
+    font-size: 30px;
+}
+nav.formularios{
+    text-align: center;
+}
+a.formulario1{
+    background-color: gray;
+    font-size: 20px;
+    font-weight: bold;
+}
+a.formulario2{
+    background-color: gray;
+    font-size: 20px;
+    font-weight: bold;
+}
+a.formulario3{
+    background-color: gray;
+    font-size: 20px;
+    font-weight: bold;
+}
